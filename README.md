@@ -1,2 +1,1 @@
-# SMART-IT-TASK
-User Managment Table task
+User Management Table
